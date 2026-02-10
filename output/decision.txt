@@ -1,0 +1,7 @@
+FAMILY=hook
+APPROVED=True
+PARAMS={'height': 120, 'width': 80, 'depth': 80, 'angle': 60, 'wall': 4, 'slots': 0, 'drain': 0, 'load': 'normal'}
+CORRECTIONS=
+REASONS=Self-supporting geometry, no supports required
+STRENGTH_SCORE=100
+STRENGTH_LABEL=Excellent
